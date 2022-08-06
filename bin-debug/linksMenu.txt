@@ -1,0 +1,5 @@
+MainMenu=swfs/MainMenu.swf
+&Intro=swfs/Intro.swf
+&Options=swfs/Options.swf
+&Genesis=sounds/Genesis.mp3
+&MusicMainMenu=sounds/MusicMainMenu.mp3
